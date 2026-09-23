@@ -1,5 +1,5 @@
 # Number-Plate-Detection-and-Recognition
-
+    
 Building a Custom License Plate Detector and Recognizer.
 
 ![Number Plate Detection](Predicted_output.jpg)
